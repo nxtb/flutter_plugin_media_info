@@ -1,3 +1,31 @@
+## 0.12.0+2
+
+* Licensing info + formatting corrected
+
+## 0.12.0+1
+
+* Add missing changelog for 0.12.0:
+  * Fix Issue #12, a performance issue when using the package at scale
+  * Extend the test suite to include integration tests and CI/CD
+
+## 0.12.0
+
+* Fix Issue #12, a performance issue when using the package at scale
+* Extend the test suite to include integration tests and CI/CD
+
+## 0.11.1
+
+* Android: Require `compileSdkVersion 32`
+
+## 0.11.0
+
+* Android: **BREAKING CHANGE** Plugin now depends on ExoPlayer 2.18.1
+
+## 0.10.0
+
+* Migrate project for Flutter 2.10
+* Fixed a few issues regarding screenshot accuracy for videos. Thank you @psimoes93
+
 ## 0.9.0
 
 * Android: **BREAKING CHANGE** Plugin now depends on ExoPlayer 2.15.0
